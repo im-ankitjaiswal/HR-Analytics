@@ -48,3 +48,89 @@ Analyzing the **Sales Department** section of the HR Analytics Dashboard, severa
    - **Mid-Career Attrition**: Employees aged **26-35** are leaving at higher rates, possibly due to career growth expectations or external opportunities.
 
 Overall, the Sales department may need to focus on improving compensation and addressing concerns for early-career employees to retain talent, especially in the Sales Executive role.
+
+![image](https://github.com/user-attachments/assets/5b34c1c1-4452-4d1d-b825-826e49064784)
+
+Analyzing the **Research & Development Department** section of the HR Analytics Dashboard, here are the insights:
+
+### 1. **Research & Development Department Overview**:
+   - **Total Employees**: 961.
+   - **Total Attrition**: 133 employees have left the Research & Development department.
+   - **Attrition Rate**: 13.8%, indicating that a relatively smaller percentage of employees have left compared to Sales.
+   - **Average Working Age**: 37.04 years, reflecting a mid-career demographic in this department.
+   - **Average Monthly Salary**: 6.28k.
+   - **Average Years at Company**: 6.86 years, suggesting decent retention over time.
+
+### 2. **Attrition by Education Field**:
+   - The largest portion of employees who left were from **Life Sciences**, contributing **59 employees** (44% of total attrition).
+   - **Medical** fields were the second-largest group, with **47 employees** (35%).
+   - Those with **Technical Degrees** formed a smaller portion of the attrition, contributing **20 employees** (15%).
+
+### 3. **Attrition by Age Group**:
+   - **26-35 years** age group has the highest attrition, with over **60 employees** leaving.
+   - Other age groups like **36-45** and **18-25** show moderate attrition rates, while older age groups (46-55 and 55+) show much lower attrition.
+   - This indicates that younger and mid-career employees (26-35) are leaving more frequently, which might point to potential career growth opportunities or external competition in that age bracket.
+
+### 4. **Attrition by Job Role**:
+   - The **Laboratory Technician** role experiences the most attrition, with **62 employees** leaving. This makes up nearly half of the total attrition in this department.
+   - **Research Scientists** also have a high attrition rate, with **47 employees** leaving.
+   - Other roles like **Healthcare Representatives**, **Manufacturing Directors**, and **Managers** show relatively lower attrition.
+
+### 5. **Salary Slab and Attrition**:
+   - The majority of attrition is concentrated in the **Upto 5k** salary slab, where the majority of the employees who left fell.
+   - There is some attrition in the **5k-10k** range, but very little to none in the higher salary brackets (**10k-15k** and **15k+**).
+   - This suggests that lower-paid employees in this department are more likely to leave, indicating a possible dissatisfaction with pay or a need for salary adjustments in the lower brackets.
+
+### 6. **Salary Slab by Job Role**:
+   - The **Laboratory Technician** role is concentrated in the **Upto 5k** salary bracket, explaining why this group has the highest attrition.
+   - **Research Scientists** also show a high attrition count but are spread across slightly higher salary slabs.
+   - **Healthcare Representatives** and **Manufacturing Directors** have low attrition, and their salaries are generally higher, suggesting that higher pay may correlate with better retention in these roles.
+
+### 7. **Attrition by Average Age and Years of Working**:
+   - Attrition is highest among employees with **1 year** of experience, where **38 employees** have left.
+   - After the first year, the attrition count drops significantly but spikes again at around **7 years** of experience, with another **13 employees** leaving.
+   - There is a small spike again at around **10 years** of tenure, suggesting that employees leaving later in their careers might be motivated by long-term career decisions or external opportunities.
+
+### **Key Conclusions for Research & Development Department**:
+   - **Laboratory Technicians** are the most vulnerable to attrition, especially those in the lower salary brackets. Improving compensation for this group could help retain them.
+   - **Younger employees (26-35)** and those with **1 year of tenure** are leaving at higher rates. This suggests the need for enhanced career development opportunities and possibly better onboarding processes to retain new hires.
+   - Employees with more experience, such as **Research Scientists**, show a more moderate but still notable attrition rate. Career progression and salary adjustments for these roles may improve retention.
+
+Overall, attrition is concentrated in lower-paid, younger employees in the **Laboratory Technician** and **Research Scientist** roles. Improving compensation, career growth opportunities, and onboarding processes could help address these issues.
+
+![image](https://github.com/user-attachments/assets/f030254e-601e-40df-b3b4-a8ac70bf465a)
+
+## Analyzing the HR Analytics Dashboard for the Human Resources Department
+
+**Key Observations:**
+
+### Attrition Rate
+* **High Attrition:** The overall attrition rate is 19%, which is relatively high. This suggests a need to investigate factors contributing to employee turnover.
+* **Human Resources Department:** The Human Resources department has the highest attrition rate among the three departments (7/12 or 58%). This is a significant concern and requires immediate attention.
+
+### Attrition by Age Group
+* **Younger Employees:** Most of the attrition is concentrated in the 26-35 age group. This suggests that younger employees might be more likely to leave the company.
+
+### Attrition by Average Age and Years of Working
+* **Experienced Employees:** There's a noticeable trend of attrition among employees with 5-7 years of experience. This could indicate dissatisfaction with career growth or compensation.
+
+### Salary Slab by Age Group/Attrition Count
+* **Lower Salary Bands:** Most of the attrition occurs in the lower salary bands (up to 10k). This suggests that compensation might be a factor driving employee turnover.
+
+### Job Role and Attrition
+* **Human Resources:** As mentioned earlier, the Human Resources department has the highest attrition. This could be due to factors such as workload, job satisfaction, or internal company culture.
+
+**Recommendations:**
+
+1. **Investigate Factors Contributing to High Attrition:** Conduct surveys or interviews to understand the reasons behind the high attrition rate in the Human Resources department.
+2. **Review Compensation and Benefits:** Analyze the compensation structure for the Human Resources department and consider adjustments to make it more competitive.
+3. **Focus on Employee Development:** Implement career development programs and opportunities for advancement to retain experienced employees.
+4. **Improve Job Satisfaction:** Explore ways to enhance job satisfaction, such as improving work-life balance, providing more autonomy, or recognizing employee contributions.
+5. **Strengthen Company Culture:** Foster a positive and supportive company culture that values employee well-being and engagement.
+
+By addressing these issues, the Human Resources department can significantly reduce attrition and improve employee retention.
+
+
+
+
+
