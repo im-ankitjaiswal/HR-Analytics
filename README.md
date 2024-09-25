@@ -1,8 +1,9 @@
 # Hr_analytics
+See Live Here - !(https://app.powerbi.com/view?r=eyJrIjoiNWQxMWNkZWItM2Q3NS00N2MwLThlZGYtMWFlYzNhZmUxZTg1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## Analyzing the HR Analytics Dashboard for the Sales Department
+
 Analyzing the **Sales Department** section of the HR Analytics Dashboard, several key insights can be derived:
 ![image](https://github.com/user-attachments/assets/7de8f9e9-b4f8-4534-9e67-6078e2c28ce6)
-
 
 ### 1. **Sales Department Overview**:
    - **Total Employees**: 446.
