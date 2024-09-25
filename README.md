@@ -51,7 +51,7 @@ Overall, the Sales department may need to focus on improving compensation and ad
 
 
 
-## Analyzing the HR Analytics Dashboard for the Human Resources Department
+## Analyzing the HR Analytics Dashboard for the Research and Development  Department
 
 ![image](https://github.com/user-attachments/assets/5b34c1c1-4452-4d1d-b825-826e49064784)
 
