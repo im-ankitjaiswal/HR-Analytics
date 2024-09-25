@@ -1,5 +1,5 @@
 # Hr_analytics
-## Sales Department Analysis
+## Analyzing the HR Analytics Dashboard for the Sales Department
 Analyzing the **Sales Department** section of the HR Analytics Dashboard, several key insights can be derived:
 ![image](https://github.com/user-attachments/assets/7de8f9e9-b4f8-4534-9e67-6078e2c28ce6)
 
@@ -49,9 +49,11 @@ Analyzing the **Sales Department** section of the HR Analytics Dashboard, severa
 
 Overall, the Sales department may need to focus on improving compensation and addressing concerns for early-career employees to retain talent, especially in the Sales Executive role.
 
-![image](https://github.com/user-attachments/assets/5b34c1c1-4452-4d1d-b825-826e49064784)
 
-Analyzing the **Research & Development Department** section of the HR Analytics Dashboard, here are the insights:
+
+## Analyzing the HR Analytics Dashboard for the Human Resources Department
+
+![image](https://github.com/user-attachments/assets/5b34c1c1-4452-4d1d-b825-826e49064784)
 
 ### 1. **Research & Development Department Overview**:
    - **Total Employees**: 961.
@@ -98,9 +100,11 @@ Analyzing the **Research & Development Department** section of the HR Analytics 
 
 Overall, attrition is concentrated in lower-paid, younger employees in the **Laboratory Technician** and **Research Scientist** roles. Improving compensation, career growth opportunities, and onboarding processes could help address these issues.
 
-![image](https://github.com/user-attachments/assets/f030254e-601e-40df-b3b4-a8ac70bf465a)
+
 
 ## Analyzing the HR Analytics Dashboard for the Human Resources Department
+
+![image](https://github.com/user-attachments/assets/f030254e-601e-40df-b3b4-a8ac70bf465a)
 
 **Key Observations:**
 
